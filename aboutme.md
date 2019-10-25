@@ -1,16 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: ##Library & Data Scientist
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+*I have a Bsc in Library Science Education, and a pre-masters certificate on Social sciences and humanities from Queen Mary University of London. UK. I am currently on a demanding and interesting journey to be a Data Scientist. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
